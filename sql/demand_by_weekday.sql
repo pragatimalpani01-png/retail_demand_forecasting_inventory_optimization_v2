@@ -1,0 +1,1 @@
+SELECT strftime('%w', date) AS weekday_number, AVG(units_sold) AS avg_units_per_row, SUM(units_sold) AS total_units FROM daily_sales GROUP BY weekday_number ORDER BY weekday_number;

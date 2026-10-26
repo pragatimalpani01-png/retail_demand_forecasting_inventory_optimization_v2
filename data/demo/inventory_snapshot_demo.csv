@@ -1,0 +1,9 @@
+sku,product_name,category,current_on_hand,supplier_lead_time_days,review_period_days,safety_stock_days,unit_price
+SKU001,Rice 5kg,Pantry,49,5,7,4,180
+SKU002,Cooking Oil 1L,Pantry,57,10,2,4,145
+SKU003,Pasta Pack,Pantry,47,6,4,4,65
+SKU004,Laundry Detergent,Household,56,7,3,4,210
+SKU005,Dish Soap,Household,78,4,6,4,55
+SKU006,Shampoo,Personal Care,45,8,2,4,125
+SKU007,Biscuits,Snacks,72,4,3,4,30
+SKU008,Coffee 200g,Snacks,98,4,5,4,160

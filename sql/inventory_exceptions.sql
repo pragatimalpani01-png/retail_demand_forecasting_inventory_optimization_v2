@@ -1,0 +1,1 @@
+SELECT sku, product_name, current_on_hand, daily_demand, days_of_cover, supplier_lead_time_days, target_stock, reorder_qty, stock_status FROM reorder_recommendations WHERE stock_status <> 'Covered' ORDER BY days_of_cover ASC;
